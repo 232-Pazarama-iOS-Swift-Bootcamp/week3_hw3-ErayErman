@@ -1,5 +1,14 @@
 # Pazarama iOS Bootcamp - Hafta 3 - Ödev
 
+# ScreenShots
+## Incomplete task : Storing and showing Favorites with using CoreData
+<img width="533" alt="1" src="https://user-images.githubusercontent.com/55625400/194955971-087212fa-d9a4-45cf-ae36-311f068f2f4e.png">
+<img width="533" alt="2" src="https://user-images.githubusercontent.com/55625400/194955979-a5f3c871-1563-4435-9863-057f36967b96.png">
+<img width="533" alt="3" src="https://user-images.githubusercontent.com/55625400/194956010-eeb911c1-36e5-4788-be37-9001e1084646.png">
+<img width="533" alt="4" src="https://user-images.githubusercontent.com/55625400/194956027-7601dbc4-a6dd-434d-a942-7c01110c5b79.png">
+<img width="533" alt="5" src="https://user-images.githubusercontent.com/55625400/194955995-641b9703-52ef-4701-b9bf-0433759bffdc.png">
+
+
 
 ## iTunes Client App
 
